@@ -145,7 +145,7 @@ main {
 }
 .points {
     font-weight: 700;
-    font-size: 60px;
+    font-size: 3.7em;
     line-height: 60px;
     color: #e21e22;
 }
@@ -157,19 +157,19 @@ main {
     margin-left: 20px;
     margin-top: 5px;
     color: black;
-    font-size: 25px;
+    font-size: 1.5em;
     line-height: 25px;
     font-weight: 700;
 }
 .profile-name h1{
-    font-size: 36px;
+    font-size: 3em;
     letter-spacing: 1.6px;
     text-transform: uppercase;
     font-weight: 700;
     margin: 0;
 }
 .profile-name p {
-    font-size: 14px;
+    font-size: 1em;
     line-height: 24px;
     margin: 0;
     font-weight: 700;
